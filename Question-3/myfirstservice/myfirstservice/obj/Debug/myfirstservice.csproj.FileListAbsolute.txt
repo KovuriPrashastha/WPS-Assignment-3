@@ -1,0 +1,7 @@
+c:\users\91939\source\repos\myfirstservice\myfirstservice\bin\myfirstservice.dll.config
+c:\users\91939\source\repos\myfirstservice\myfirstservice\bin\myfirstservice.dll
+c:\users\91939\source\repos\myfirstservice\myfirstservice\bin\myfirstservice.pdb
+c:\users\91939\source\repos\myfirstservice\myfirstservice\obj\Debug\myfirstservice.csprojAssemblyReference.cache
+c:\users\91939\source\repos\myfirstservice\myfirstservice\obj\Debug\myfirstservice.csproj.CoreCompileInputs.cache
+c:\users\91939\source\repos\myfirstservice\myfirstservice\obj\Debug\myfirstservice.dll
+c:\users\91939\source\repos\myfirstservice\myfirstservice\obj\Debug\myfirstservice.pdb
