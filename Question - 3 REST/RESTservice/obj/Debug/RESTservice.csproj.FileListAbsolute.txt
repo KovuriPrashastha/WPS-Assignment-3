@@ -1,0 +1,7 @@
+C:\Users\91939\source\repos\RESTservice\RESTservice\bin\RESTservice.dll.config
+C:\Users\91939\source\repos\RESTservice\RESTservice\bin\RESTservice.dll
+C:\Users\91939\source\repos\RESTservice\RESTservice\bin\RESTservice.pdb
+C:\Users\91939\source\repos\RESTservice\RESTservice\obj\Debug\RESTservice.csprojAssemblyReference.cache
+C:\Users\91939\source\repos\RESTservice\RESTservice\obj\Debug\RESTservice.csproj.CoreCompileInputs.cache
+C:\Users\91939\source\repos\RESTservice\RESTservice\obj\Debug\RESTservice.dll
+C:\Users\91939\source\repos\RESTservice\RESTservice\obj\Debug\RESTservice.pdb
